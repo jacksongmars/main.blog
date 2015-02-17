@@ -1,16 +1,3 @@
-StrayBirds
-==========
-
-基于 GitHub Pages 搭建的极简博客，所有操作都可以直接通过浏览器完成。
-
-## 示例
-
-可以通过访问 [StrayBirds](http://minixalpha.github.io/StrayBirds/) 看到最终
-的效果，下面是截图:
-
-![ui-demo](/images/ui_demo.png)
-
-## 教程
 
 ### 使用方法
 
